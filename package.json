@@ -1,0 +1,10 @@
+{
+  "name": "nsda-notes",
+  "version": "1.0.0",
+  "description": "sharing my notes",
+  "main": "index.js",
+  "repository": "https://github.com/KnowsCount/debate.git",
+  "author": "KnowsCount",
+  "license": "MIT",
+  "private": false
+}
