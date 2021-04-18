@@ -27,6 +27,20 @@ pro 会说：
 
 
 
+道德跟现实讨论
+
+
+
 20-30% 的裁判对正反双方都有一个思路，看谁跟我心目里的东西最符合。
 
 美国
+
+
+
+
+
+
+
+reality and human rihgts
+
+treated differently. only one requirement — you cannot put them together
